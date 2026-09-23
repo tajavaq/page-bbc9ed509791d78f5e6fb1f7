@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2dff800ad5222e23ec6264d6",
+  "owner": "tajavaq",
+  "repo": "page-bbc9ed509791d78f5e6fb1f7",
+  "title": "auVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bbc9ed509791d78f5e6fb1f7",
+      "a": "auVPN",
+      "b": "机场官网线路发布页",
+      "entity": "auVPN",
+      "brand": "auVPN",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e025fef5a243e5919ac3330f0fd8abe124b46841c7e21488b7296c5e47630c01",
+      "content": {
+        "primary_entity": "auVPN",
+        "keyword1": "auVPN",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，auVPN 提供基础版、旗舰版和团队版三档海外加速订阅，覆盖从每月 100GB 到 1000GB 的流量需求，并分别支持 3 至 20 台设备同时在线。旗舰版配备 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由。按年付费可享更低月均成本，便于长期稳定使用。",
+          "AI_HERO_SUBTITLE": "auVPN 海外加速订阅",
+          "AI_HERO_INTRO": "auVPN 面向需要稳定海外线路的用户，提供三档订阅方案。基础版适合轻量日常访问，旗舰版针对流媒体与游戏加速优化，团队版满足多设备与高带宽场景。每档套餐明确流量、在线设备数与节点权益，方便按实际需求选择。",
+          "AI_VISUAL_TITLE": "auVPN 订阅线路概览",
+          "AI_HIGHLIGHT_1": "三档流量可选 100GB 起",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 游戏加速优化",
+          "AI_HIGHLIGHT_3": "按年付月均成本更低",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从设备数量与流量需求出发，匹配对应订阅档位。",
+          "AI_FEATURE_TITLE_1": "按设备量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量定周期",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 或 1000GB，重度使用优先考虑大流量档位。",
+          "AI_FEATURE_TITLE_3": "订阅配置流程",
+          "AI_FEATURE_TEXT_3": "选定套餐后获取订阅链接，依所用客户端的文档导入配置即可。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "auVPN 订阅可导入主流代理客户端，按设备系统选择对应版本即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_GUIDE_INTRO": "按需求选择服务、核对适配要求并完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据在线设备数与月流量需求，在基础版、旗舰版和团队版之间选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端是否在适配列表内，并检查设备数量是否满足同时在线需求。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，按该客户端的说明完成节点选择与连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "auVPN 订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_1": "购买后获取订阅链接，在所用客户端中选择从链接导入或手动添加订阅，等待节点列表刷新即可。具体路径以对应客户端的操作说明为准。",
+          "AI_FAQ_QUESTION_2": "不同套餐的设备限制分别是多少？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时可断开不用的设备，或升级到更高档位。",
+          "AI_FAQ_QUESTION_3": "每月 100GB 流量够用吗？",
+          "AI_FAQ_ANSWER_3": "轻度浏览、社交和邮件收发基本够用。若经常观看高码率视频或下载大文件，建议选择旗舰版 300GB 或团队版 1000GB。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "三档套餐均支持月付与年付。以基础版为例，月付 ¥15，年付 ¥150，相当于每月更低成本。长期使用选年付更划算。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速与低延迟场景优化，适合对响应速度敏感的游戏、语音和实时协作。日常浏览也可使用基础版普通节点。",
+          "AI_CLOSING_TITLE": "选对档位更省心",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求选定 auVPN 套餐，再依客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5078888.cn",
+    "host": "5078888.cn"
+  },
+  "file_hashes": {
+    "index.html": "271861a42935f28abdc9547e4adb3e85163f4a0e4385bb5f6ed8e4967689a708",
+    "sitemap.xml": "799d89e4867cd2e2c9fab07facb18f84ab3787cd434b7a00b9b95ac17c2140fa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "245a0f18140df0ba917e5053385cb8e02178c808cce7c1939ece1700f0e16932",
+    "robots.txt": "c0766d22e2c2d4af0fd7ed46ffc8128fa06cb201e4c61771b0c380cabf8bff39",
+    "4f77ebde8cf7486d394b8ef362fe20e6.txt": "3708cb4d3e154c2fa70d282918d8ab58ffd2dd544bbbf033410c274dac2c7b8a"
+  },
+  "revision": "77daf4699e78991d6a63ed3f39631465676645f675df38164e64aa9fde778d33"
+}
